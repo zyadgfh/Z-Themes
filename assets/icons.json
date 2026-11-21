@@ -1,0 +1,368 @@
+[
+  {
+    "id": "phone",
+    "label": "Phone",
+    "glyph": "phone_fill",
+    "colors": [
+      "#65ed80",
+      "#20b64b"
+    ],
+    "packages": [
+      "com.android.contacts.activities.DialtactsActivity",
+      "com.android.phone",
+      "com.android.dialer",
+      "com.google.android.dialer"
+    ]
+  },
+  {
+    "id": "messages",
+    "label": "Messages",
+    "glyph": "chat_bubble_fill",
+    "colors": [
+      "#6fe889",
+      "#22b751"
+    ],
+    "packages": [
+      "com.android.mms",
+      "com.google.android.apps.messaging"
+    ]
+  },
+  {
+    "id": "camera",
+    "label": "Camera",
+    "glyph": "camera_fill",
+    "colors": [
+      "#e2e5eb",
+      "#aeb5c2"
+    ],
+    "packages": [
+      "com.huawei.camera",
+      "com.huawei.camera.Camera",
+      "com.android.camera",
+      "com.android.camera2"
+    ]
+  },
+  {
+    "id": "photos",
+    "label": "Photos",
+    "glyph": "photo_fill",
+    "colors": [
+      "#f7ae76",
+      "#ee5d98"
+    ],
+    "packages": [
+      "com.android.gallery3d",
+      "com.huawei.photos",
+      "com.google.android.apps.photos"
+    ]
+  },
+  {
+    "id": "browser",
+    "label": "Browser",
+    "glyph": "compass",
+    "colors": [
+      "#4ac8ff",
+      "#1272ef"
+    ],
+    "packages": [
+      "com.android.browser",
+      "com.huawei.browser",
+      "com.android.chrome"
+    ]
+  },
+  {
+    "id": "settings",
+    "label": "Settings",
+    "glyph": "gear_alt_fill",
+    "colors": [
+      "#b0b8c6",
+      "#677184"
+    ],
+    "packages": [
+      "com.android.settings"
+    ]
+  },
+  {
+    "id": "calendar",
+    "label": "Calendar",
+    "glyph": "calendar",
+    "colors": [
+      "#ff786b",
+      "#e93e50"
+    ],
+    "packages": [
+      "com.android.calendar",
+      "com.google.android.calendar"
+    ]
+  },
+  {
+    "id": "clock",
+    "label": "Clock",
+    "glyph": "clock",
+    "colors": [
+      "#303642",
+      "#10131d"
+    ],
+    "packages": [
+      "com.android.deskclock",
+      "com.google.android.deskclock"
+    ]
+  },
+  {
+    "id": "weather",
+    "label": "Weather",
+    "glyph": "cloud_sun_fill",
+    "colors": [
+      "#55caff",
+      "#236ce0"
+    ],
+    "packages": [
+      "com.huawei.android.totemweather",
+      "com.huawei.android.totemweatherapp"
+    ]
+  },
+  {
+    "id": "maps",
+    "label": "Maps",
+    "glyph": "map_fill",
+    "colors": [
+      "#6ce1be",
+      "#269dac"
+    ],
+    "packages": [
+      "com.huawei.maps.app",
+      "com.google.android.apps.maps"
+    ]
+  },
+  {
+    "id": "email",
+    "label": "Mail",
+    "glyph": "envelope_fill",
+    "colors": [
+      "#59b5ff",
+      "#1264ea"
+    ],
+    "packages": [
+      "com.android.email",
+      "com.google.android.gm"
+    ]
+  },
+  {
+    "id": "notes",
+    "label": "Notes",
+    "glyph": "square_list_fill",
+    "colors": [
+      "#ffd766",
+      "#f2ac20"
+    ],
+    "packages": [
+      "com.example.android.notepad",
+      "com.huawei.notepad",
+      "com.google.android.keep"
+    ]
+  },
+  {
+    "id": "files",
+    "label": "Files",
+    "glyph": "folder_fill",
+    "colors": [
+      "#62c5ff",
+      "#3774e7"
+    ],
+    "packages": [
+      "com.huawei.hidisk",
+      "com.android.documentsui",
+      "com.google.android.documentsui",
+      "com.google.android.apps.nbu.files"
+    ]
+  },
+  {
+    "id": "music",
+    "label": "Music",
+    "glyph": "music_note_2",
+    "colors": [
+      "#ff779b",
+      "#ef365b"
+    ],
+    "packages": [
+      "com.android.mediacenter",
+      "com.huawei.music",
+      "com.google.android.apps.youtube.music"
+    ]
+  },
+  {
+    "id": "video",
+    "label": "Video",
+    "glyph": "play_rectangle_fill",
+    "colors": [
+      "#ba8fff",
+      "#6a49d7"
+    ],
+    "packages": [
+      "com.huawei.himovie",
+      "com.huawei.himovie.overseas",
+      "com.google.android.youtube"
+    ]
+  },
+  {
+    "id": "recorder",
+    "label": "Recorder",
+    "glyph": "mic_fill",
+    "colors": [
+      "#fc7768",
+      "#cf3a53"
+    ],
+    "packages": [
+      "com.android.soundrecorder",
+      "com.huawei.soundrecorder"
+    ]
+  },
+  {
+    "id": "contacts",
+    "label": "Contacts",
+    "glyph": "person_crop_square_fill",
+    "colors": [
+      "#c8beb2",
+      "#918477"
+    ],
+    "packages": [
+      "com.android.contacts",
+      "com.google.android.contacts"
+    ]
+  },
+  {
+    "id": "store",
+    "label": "AppGallery",
+    "glyph": "bag_fill",
+    "colors": [
+      "#ff7c92",
+      "#e6395f"
+    ],
+    "packages": [
+      "com.huawei.appmarket"
+    ]
+  },
+  {
+    "id": "themes",
+    "label": "Themes",
+    "glyph": "camera_filters",
+    "colors": [
+      "#b19aff",
+      "#7253e7"
+    ],
+    "packages": [
+      "com.huawei.android.thememanager"
+    ]
+  },
+  {
+    "id": "health",
+    "label": "Health",
+    "glyph": "heart_fill",
+    "colors": [
+      "#ff8b9e",
+      "#ee4865"
+    ],
+    "packages": [
+      "com.huawei.health"
+    ]
+  },
+  {
+    "id": "security",
+    "label": "Optimizer",
+    "glyph": "shield_lefthalf_fill",
+    "colors": [
+      "#5dd6dc",
+      "#1c95a4"
+    ],
+    "packages": [
+      "com.huawei.systemmanager"
+    ]
+  },
+  {
+    "id": "books",
+    "label": "Books",
+    "glyph": "book_fill",
+    "colors": [
+      "#ffbd65",
+      "#f08724"
+    ],
+    "packages": [
+      "com.huawei.hwireader",
+      "com.google.android.apps.books"
+    ]
+  },
+  {
+    "id": "downloads",
+    "label": "Downloads",
+    "glyph": "arrow_down_circle_fill",
+    "colors": [
+      "#5fcaf4",
+      "#258bc4"
+    ],
+    "packages": [
+      "com.android.providers.downloads.ui"
+    ]
+  },
+  {
+    "id": "tips",
+    "label": "Tips",
+    "glyph": "lightbulb_fill",
+    "colors": [
+      "#ffe084",
+      "#ecb23a"
+    ],
+    "packages": [
+      "com.huawei.android.tips"
+    ]
+  },
+  {
+    "id": "calculator",
+    "label": "Calculator",
+    "glyph": "number",
+    "colors": [
+      "#607082",
+      "#344355"
+    ],
+    "packages": [
+      "com.android.calculator2",
+      "com.huawei.calculator",
+      "com.google.android.calculator"
+    ]
+  },
+  {
+    "id": "whatsapp",
+    "label": "WhatsApp",
+    "glyph": "chat_bubble_2_fill",
+    "colors": [
+      "#63d99d",
+      "#16a16c"
+    ],
+    "packages": [
+      "com.whatsapp"
+    ]
+  },
+  {
+    "id": "telegram",
+    "label": "Telegram",
+    "glyph": "paperplane_fill",
+    "colors": [
+      "#65ccf8",
+      "#208dcc"
+    ],
+    "packages": [
+      "org.telegram.messenger"
+    ]
+  },
+  {
+    "id": "playstore",
+    "label": "Play Store",
+    "glyph": "play_fill",
+    "colors": [
+      "#6fd4c4",
+      "#278cb3"
+    ],
+    "packages": [
+      "com.android.vending"
+    ]
+  }
+]
